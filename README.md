@@ -22,7 +22,7 @@ I learned how to use inquirer to produce an application that can query an sql da
 
 ## Table of Contents:
 
-[Image-of-website](./assets/images/employeetrackerproject.png),
+[Image-of-Application](./assets/images/employeetrackerproject.png),
 
 [Link-to-Video](https://drive.google.com/file/d/1F1P1ZsPo0PgpPKHoZASp34bd1zvny30f/view),
 
